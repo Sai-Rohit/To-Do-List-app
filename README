@@ -1,0 +1,11 @@
+# My React To-Do App 📝
+
+A simple and responsive To-Do List application built using HTML, CSS, and JavaScript (Vanilla JS).
+
+## ✨ Features
+- Add and delete tasks
+- Mark tasks as completed/pending
+- Filter tasks (All / Completed / Pending)
+- Task creation timestamp
+- Stylish UI with counters
+
